@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @martinelias1312
 - 👀 I’m interested in WebDevelopement.
-- 🌱 I’m currently learning html, css, js.
+- 🌱 I’m currently learning scss, js/jquery.
 - 📫 Reach me at martinelias630@gmail.com 
