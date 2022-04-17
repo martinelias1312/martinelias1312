@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning js + vue.
 - 📫 Reach me at martinelias630@gmail.com 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=martinelias1312&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=martinelias1312&show_icons=true&theme=onedark)
