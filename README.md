@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martinelias1312
+- 👋 Hi, I’m Martin Eliáš
 - 👀 I’m interested in WebDevelopement.
 - 🌱 I’m currently learning js + vue.
 - 📫 Reach me at martinelias630@gmail.com 
