@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin Eliáš
-- 👀 I’m interested in WebDevelopement.
+- 👀 Wanna be WebDev.
 - 🌱 I’m currently learning js + react, vue.
 - 📫 Reach me at martinelias630@gmail.com 
 
